@@ -43,5 +43,5 @@
 <!-- Footer -->
 <p align="center">
   <i>🚀 Built with passion, curiosity, and endless coffee ☕<br>
-  © 2025 Siddhant Patil — Open to new opportunities & collaborations 🤝</i>
+  © 2021 Siddhant Patil — Open to new opportunities & collaborations 🤝</i>
 </p>
